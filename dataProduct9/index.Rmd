@@ -1,0 +1,27 @@
+---
+title       : BMI Index
+subtitle    : 
+author      : Ray
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+## Purpose: This simple web app help you calculate your BMI
+
+--- 
+## Please enter your height and weight
+
+---
+## Normal range: 18.5 - 24.99
+
+--- 
+
+## Thank you!
+
+
+
+
